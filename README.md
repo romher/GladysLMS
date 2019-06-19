@@ -3,8 +3,8 @@ An interface with Logitech Media Server to use basic functions in Gladys
 
 Note : This is a prototype. This project is not documented and not tested. Use it carefully.
 
-(English version)
 # Manual Installation
+(English version)
 - Create a new parameter in gladys named "IP_LMS" with your LMS server IP adress and port (x.x.x.x:xxxx).
  
 - Create a new directory GladysLMS in your modules directory (mkdir *USER*/gladys/api/hooks/GladysLMS , replace *USER* by your Gladys installation directory localization).
